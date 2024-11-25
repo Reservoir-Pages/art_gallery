@@ -1,1 +1,0 @@
-import "./vendor/scroll-behavior";
